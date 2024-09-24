@@ -35,7 +35,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2024 [me](https://github.com/enterausernameasterisk).<br />
 This project is [Unlicensed](https://unlicense.org/) licensed.
 
 ***
