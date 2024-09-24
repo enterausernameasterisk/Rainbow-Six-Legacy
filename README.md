@@ -15,7 +15,7 @@
 ## Usage
 
 > Legacy is not fully plug-and-play and requires set-up:
-***
+
 - To achieve multiplayer capability, you will have to self-host through LAN, you can do this by using something like Radmin VPN.
 - Skins, packs and cosmetics cannot be earned and are all automatically unlocked.
 
@@ -37,3 +37,5 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2024 [me](https://github.com/enterausernameasterisk).<br />
 This project is [Unlicensed](https://unlicense.org/) licensed.
+
+***
