@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Rainbow Six: Legacy is a Multiplayer *`FACEIT`*, Anti-Cheat protected *`MOSS`* publication of old *`Tom Clancy's Rainbow Six: Siege`*. 
+> Rainbow Six: Legacy is a *`FACEIT`* Multiplayer, *`MOSS`* Anti-Cheat protected publication of old *`Tom Clancy's Rainbow Six: Siege`*. 
 
 ### 🏠 [Homepage](https://github.com/enterausernameasterisk/Rainbow-Six-Legacy/tree/main#readme)
 
