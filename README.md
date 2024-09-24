@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> A project dedicated to immersing you in the old days of Siege
+> Rainbow Six: Legacy is a Multiplayer `*FACEIT*`, anti-cheat included `*MOSS*` publication of old Siege. 
 
 ### 🏠 [Homepage](https://github.com/enterausernameasterisk/Rainbow-Six-Legacy/tree/main#readme)
 
