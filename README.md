@@ -21,7 +21,7 @@
 
 ## Author
 
-👤 **me**
+👤 **enterausernameasterisk, includes licensed applications such as; MOSS by Nohope92**
 
 * Github: [@enterausernameasterisk](https://github.com/enterausernameasterisk)
 
@@ -36,5 +36,6 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 This project is [Unlicensed](https://unlicense.org/) licensed.
+MOSS itself is closed-source.
 
 ***
