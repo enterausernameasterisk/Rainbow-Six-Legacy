@@ -10,7 +10,7 @@
 
 ### 🏠 [Homepage](https://cdn.discordapp.com/attachments/1155969031774421083/1288895867364835499/image.png?ex=66f6d951&is=66f587d1&hm=656488e59ba9112b2cf00d1be66269c8b62e848108a3f5113741633b85e242c3&)
 
-### ✨ [Demo](https://cdn.discordapp.com/attachments/760147971861643273/1287985136243179562/1820296.jpg?ex=66f38922&is=66f237a2&hm=827672a07912f7bd7cde0537fb21be3cc5fca3f48adec9bf7706a133e79da82e&)
+### ✨ [Demo](https://cdn.discordapp.com/attachments/1155969031774421083/1288899231834177626/Untitled_video_-_Made_with_Clipchamp_1_1.gif?ex=66f6dc73&is=66f58af3&hm=8665239b090007e3fdb5ef2ccb614a4f5923e47ab267de0536c91c28d4ded088&)
 
 ## Usage
 
