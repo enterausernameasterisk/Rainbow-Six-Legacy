@@ -19,7 +19,7 @@
 - To achieve multiplayer capability, you will have to self-host through LAN, you can do this by using something like Radmin VPN.
 - Skins, packs and cosmetics cannot be earned and are all automatically unlocked.
 
-> `Our servers are officially up as of 9/26/24, you can connect through Radmin:`
+> Our servers are officially up as of 9/26/24, you can connect through Radmin:
 
 - `Network Name: Rainbow Six Legacy`
 - `Network Password: ShadowLegacy`
